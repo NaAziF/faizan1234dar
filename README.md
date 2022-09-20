@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @faizan1234dar
 - 👀 I’m interested in Web Development And Cross Platform app Development.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently working.
 - 💞️ I’m looking to collaborate on Web apps.
+- ✨ Full Stack Engineer at Techkmr. 
 - 📫 How to reach me frasool@asmedu.org
 
 <!---
