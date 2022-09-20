@@ -3,7 +3,7 @@
 - 🌱 I’m currently working.
 - 💞️ I’m looking to collaborate on Web apps.
 - ✨ Full Stack Engineer at Techkmr. 
-- 📫 How to reach me frasool@asmedu.org
+- 📫 How to reach me Faizan1234dar@gmail.com
 
 <!---
 faizan1234dar/faizan1234dar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
